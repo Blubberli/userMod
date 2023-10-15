@@ -1,6 +1,6 @@
 ## Description of the different versions of the dataset
 
-The following repositories contain the data for the paper 'Moderation in the Wild: Investigating User-Driven Moderation in Online Discussions'.
+The following repository contain the data for the paper 'Moderation in the Wild: Investigating User-Driven Moderation in Online Discussions'.
 The guidelines of the annotation study are available in the directory `guidelines`.
 
 The data is available in two versions: `UMOD_non_aggregated.csv` and `UMOD_aggregated.csv` in the directory `dataset`.
