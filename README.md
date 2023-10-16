@@ -58,3 +58,13 @@ The annotations are aggregated by the following rules:
 ### UMOD_reply_wiht_linguistic_and_tan2016_features.csv
 
 This file contains the reply comment with id and the additional features that were used in the paper for the analysis of constructiveness.
+
+
+### Licence and intended use
+licence: CC BY 4.0 DEED
+
+If you use this work please cite the following:
+
+Chenhao Tan, Vlad Niculae, Cristian Danescu-Niculescu-Mizil, and Lillian Lee. 2016.
+*Winning arguments: Interaction dynamics and persuasion strategies in good-faith online discussions.*
+In Proceedings of the 25th international conference on world wide web, pages 613–624.
